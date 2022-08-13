@@ -9,7 +9,7 @@ import { useState, useEffect } from "react";
 import { api } from "../../services/api";
 import { BiTime } from 'react-icons/bi';
 import { useAuth } from '../../hooks/auth';
-
+import avatarPlaceholder from "../../assets/avatar_placeholder.svg";
 
 export function Details(){
   const { user } = useAuth();
