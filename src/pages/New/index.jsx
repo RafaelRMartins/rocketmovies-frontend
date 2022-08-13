@@ -1,7 +1,7 @@
 import { Header } from "../../components/Header";
 import { Input } from "../../components/Input";
 import { Textarea } from "../../components/Textarea";
-import { NoteItem } from "../../components/NoteItem";
+import { NoteItem } from "../../components/Noteitem";
 import { Button } from "../../components/Button";
 import { AiOutlineArrowLeft } from 'react-icons/ai';
 import { Container, Form, Box, BoxNote, BoxButton } from "./styles";
